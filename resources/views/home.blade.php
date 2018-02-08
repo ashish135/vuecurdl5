@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    You are logged in!
+                    <div id="app"><createtask-component></createtask-component></div>
                 </div>
             </div>
         </div>

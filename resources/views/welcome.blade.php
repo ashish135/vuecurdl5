@@ -78,9 +78,9 @@
             @endif
             <div id="app">
             <div class="content">
-                <div class="title m-b-md">
-                    Laravel CURD with Vue
-                </div>
+             <div>
+                 
+             </div>
             </div>
             <example-component></example-component>
         </div>
